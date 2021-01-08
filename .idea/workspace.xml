@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -57,7 +58,7 @@
       <workItem from="1610107712312" duration="1224000" />
       <workItem from="1610108948099" duration="2018000" />
       <workItem from="1610110985447" duration="4011000" />
-      <workItem from="1610115008601" duration="852000" />
+      <workItem from="1610115008601" duration="1164000" />
     </task>
     <servers />
   </component>
