@@ -86,7 +86,7 @@ const string = `/*
   display: block;
   position: absolute;
   left: 8px;
-  top: -2px;
+  top: 0;
 }
 
 .eye.left {
