@@ -35,7 +35,7 @@ const player = {
     if (string[player.n]) {
       player.ui.css.innerHTML = string.substring(0, player.n);
       player.ui.html.innerText = string.substring(0, player.n);
-      player.ui.html.scrollTop =  player.ui.html.scrollHeight;
+      player.ui.html.scrollTop =  9999;
       player.play();
     }
   },

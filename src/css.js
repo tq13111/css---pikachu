@@ -1,5 +1,4 @@
 const string = `body {
-  background: rgb(255, 230, 0);
   height: 100vh;
 }
 
