@@ -216,6 +216,7 @@ const string = `/*
 */
 .eye:after {
   position: absolute;
+  background: #ffe600;
   top: -90px;
   left: -6px;
   content: "";
@@ -223,7 +224,6 @@ const string = `/*
   width: 70px;
   height: 70px;
   border-radius: 50%;
-  background: #ffe600;
 }
 
 @keyframes x {
