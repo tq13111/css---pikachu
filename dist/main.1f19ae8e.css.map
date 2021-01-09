@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.1f19ae8e.css","sourceRoot":"..\\src","sourcesContent":["* {\r\n    box-sizing: border-box;\r\n    margin: 0;\r\n    padding: 0;\r\n  }\r\n  *::before,\r\n  *::after {\r\n    box-sizing: border-box;\r\n  }\r\n  "]}

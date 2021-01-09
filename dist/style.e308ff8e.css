@@ -1,4 +1,4 @@
-const string = `/*
+/*
 *现在开始来画一只可爱的皮卡丘
 *首先画皮卡丘的皮
 */
@@ -238,5 +238,6 @@ const string = `/*
 .eye:after {
   animation: x 2s infinite alternate ease-out;
 }
-`;
-export default string
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

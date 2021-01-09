@@ -26,7 +26,9 @@ const player = {
     for (let key in player.events) {
       if (player.events.hasOwnProperty(key)) {
         const value = player.events[key];
-        document.querySelector(key).onclick = player[value];
+        document.querySelector(key).onclick = (e)=>{
+          player.click(e)
+          player[value]()};
       }
     }
   },
@@ -60,5 +62,12 @@ const player = {
     player.delay = 0;
     player.play();
   },
+  click:(e)=> {
+    const buttonList =e.target.parentElement.children
+    for(let i = 0;i<buttonList.length;i++){
+      buttonList[i].classList.remove('active')
+    }
+    e.target.classList.add('active')
+  }
 };
 player.init();
